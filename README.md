@@ -102,7 +102,7 @@ These core technologies, along with others, come together to create a powerful a
 Clone the repository to your local environment.
 
 ```js
-git clone https://github.com/arslanarso/react-native-videocall-webrtc.git
+git clone https://github.com/arslanarso/react-native-videocallapp-webrtc.git
 ```
 
 ### Server Setup 🚀
@@ -111,7 +111,7 @@ git clone https://github.com/arslanarso/react-native-videocall-webrtc.git
 
 ```js
 
-cd react-native-videocall-webrtc/server
+cd react-native-videocallapp-webrtc/server
 ```
 
 ### 🚚 Install Dependencies
@@ -135,7 +135,7 @@ npm run start
 
 ```js
 
-cd react-native-videocall-webrtc/client
+cd react-native-videocallapp-webrtc/client
 ```
 
 ### 🚚 Install Dependencies
